@@ -1,0 +1,25 @@
+﻿body
+{
+    margin: 25px 50px 75px 100px;
+    background-color: lightcyan;
+}
+
+ul
+{
+    color: red;
+}
+
+h1
+{
+   font-family: 'Copperplate Gothic', sans-serif; 
+}
+
+.Headlines
+{
+    font-family: Verdana, 'Times New Roman', Times, serif;
+}
+
+#Tip
+{
+    color: darkorange;
+}
