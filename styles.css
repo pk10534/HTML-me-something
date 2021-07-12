@@ -4,6 +4,12 @@
     background-color: lightcyan;
 }
 
+#Title
+{
+    text-align: center;
+    padding-left: 10px;
+}
+
 ul
 {
     color: red;
