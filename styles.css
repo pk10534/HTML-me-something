@@ -38,3 +38,8 @@ h1
     margin-right: auto;
     width: 50%;
 }
+
+img
+{
+    border: 5px solid #000000
+}
